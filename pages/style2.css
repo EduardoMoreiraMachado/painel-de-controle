@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0005;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;    
+}
